@@ -4,11 +4,11 @@
 
 This project was my thesis to graduate in Electrical Engineering at [Federal University of Rio Grande do Sul](http://www.ufrgs.br/).
 
-You can read it in Portuguese only: [PDF Format](https://github.com/marceloschreiber/undergraduate-final-project/blob/master/Monografia.pdf)
+You can read it: [PDF Format](https://github.com/marceloschreiber/undergraduate-final-project/blob/master/Monografia.pdf) (Portuguese only)
 
 ### Abstract
 
-(copy from the document for convenience)
+(copied from the document for convenience)
 
 Mosquitos are a vector of infectious diseases, such as malaria, dengue and yellow fever, and affect
 thousands of people annually. One way to combat these vectors is by mapping these species
@@ -34,9 +34,9 @@ techniques.
 
 ## Dataset
 
-The original dataset used was from Stanford: [Using mobile phones as acoustic snesors for high-throughput mosquito serveillance](http://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/publications/). The original recordings had audio portions that were silence and did not have the flying sound of a mosquito. These parts were manually removed. All audios were resampled to 8 kHz as part of normalization.
+The original dataset used was from Stanford's research [Using mobile phones as acoustic snesors for high-throughput mosquito serveillance](http://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/publications/). The original recordings had audio portions that were silence and did not have the flying sound of a mosquito. These parts were manually removed. All audios were resampled to 8 kHz as part of normalization.
 
-New Dataset: [Google drive link](https://drive.google.com/file/d/1omRl9IPmYSn4SzBwXIRogzSKTPqgq2VU/view?usp=sharing)
+This is the dataset I produced after cutting the silences and resampling: [Google drive link](https://drive.google.com/file/d/1omRl9IPmYSn4SzBwXIRogzSKTPqgq2VU/view?usp=sharing)
 
 ## Files breakdown:
 
